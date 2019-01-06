@@ -4,7 +4,7 @@ let resumeData = {
   "role": "Full Stack Software Engineer",
   "linkedinId":"Your LinkedIn Id",
   "skypeid": "Your skypeid",
-  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "roleDescription": " During my 16-year career as a jeweler and gemologist, I was introduced to the beauty and power of software engineering while building and managing the company’s website and e-commerce site. This whet my appetite for solving problems using software and technology. I made a life-altering change when I became a Software Engineering student at Fullstack Academy, a top-ranked coding bootcamp--and I couldn’t love it more. I am currently a full stack software engineer specializing in React, Express, PostgreSQL, and Node.",
   "socialLinks":[
       {
         "name":"linkedin",
